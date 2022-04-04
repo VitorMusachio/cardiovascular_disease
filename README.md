@@ -1,6 +1,6 @@
 # Cardiovascular Disease
 
-Project from [Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?resource=download) for predicting cardio disease.
+Project from [Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?resource=download) for predicting cardiovascular disease.
 
 Work in Progress...
 
